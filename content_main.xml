@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/timetable_icon"
+
+    >
+
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="372dp"
+        android:gravity="center"
+        android:textColor="#a8e6ce"
+        android:textSize="50dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="LOADING....."
+        android:textColor="#A500"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <ProgressBar
+        android:id="@+id/progressbar"
+        style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="86dp"
+        android:paddingTop="20dp" />
+
+
+
+</LinearLayout>

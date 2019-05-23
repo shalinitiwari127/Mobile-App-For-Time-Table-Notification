@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:background="@drawable/timetable_icon"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    >
+
+    <Button
+        android:id="@+id/but1"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="120dp"
+        android:background="#A8E6CE"
+        android:text="SET"
+        android:textColor="#d1507f"
+        android:textSize="40dp"
+        android:textStyle="bold" />
+    <Button
+        android:id="@+id/but2"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+        android:background="#A8E6CE"
+        android:textStyle="bold"
+        android:text="RESET"
+        android:textSize="40dp"
+        android:textColor="#d1507f"
+        android:layout_width="180dp"
+        android:layout_height="60dp" />
+    <Button
+        android:id="@+id/but3"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center"
+        android:text="VIEW"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        android:textColor="#d1507f"
+        android:background="#A8E6CE"
+        android:layout_width="180dp"
+        android:layout_height="60dp" />
+
+
+
+</LinearLayout>

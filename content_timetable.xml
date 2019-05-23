@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#FF8C94">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#A8E6CE">
+        <EditText
+            android:id="@+id/d1"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="MON"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr1"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text=""
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr2"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="CN"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr3"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="SE"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr4"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="DAA"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr5"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="SEL"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr6"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="SEL"
+            android:textSize="30sp" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#DCEDC2"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/d2"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="TUE"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr7"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text=""
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr8"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="MAP"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr9"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="CN"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr10"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="DP"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr11"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="MAPL"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr12"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="MAPL"
+            android:textSize="30sp" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFD3B5"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/d3"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="WED"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr13"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="CN"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr14"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="DP"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr15"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="MAP"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr16"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="SE"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr17"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="CNL"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr18"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="CNL"
+            android:textSize="30sp" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFAAA6"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/d4"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="THU"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr19"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="SE"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr20"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="DAA"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr21"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="MAP"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr22"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="DP"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr23"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="STL"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr24"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="STL"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FDB9CB"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/d5"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="FRI"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr25"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="DAA"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr26"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="MAP"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr27"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="SE"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr28"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="CN"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr29"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="OTH"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr30"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="OTH"
+            android:textSize="30sp" />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ff8c94"
+        android:orientation="horizontal">
+        <EditText
+            android:id="@+id/d6"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="SAT"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr31"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="3CEL"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr32"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="3CEL"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr33"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="MAP"
+            android:textSize="30sp" />
+
+        <EditText
+            android:id="@+id/pr34"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="DP"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr35"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="DAA"
+            android:textSize="30sp" />
+        <EditText
+            android:id="@+id/pr36"
+            android:layout_width="80dp"
+            android:layout_height="50dp"
+            android:text="OFF"
+            android:textSize="30sp" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#66CCCC">
+        <Button
+            android:id="@+id/bt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="save"/>
+    </LinearLayout>
+</LinearLayout>
